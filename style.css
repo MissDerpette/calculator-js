@@ -1,13 +1,13 @@
 *, *::before, *::after {
      box-sizing: border-box;
-     font-family: Helvetica, sans-serif;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
      font-weight: normal;
 }
 
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #ae0bc4, #7207b9);
+    background: linear-gradient(to right, #3e0686, #79079c);
 
 }
 
